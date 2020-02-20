@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ini file pemilik.txt
+=======
+ini file pemilik.txt
+>>>>>>> 9aa62b3b29b74088e437016185f2b077a6475aa6
